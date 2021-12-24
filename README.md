@@ -13,13 +13,13 @@
 
 ### Languages and Tools I use:
 
-- Python
-- HTML & CSS
-- Javascript
-- Git 
-- Github
-- MySQL
-- VS Code
 
+- <img src="https://user-images.githubusercontent.com/90744124/147354135-02edfc9e-0121-4f84-bd3f-3c6ef3491883.png" width="22">  Pyhon 
+- <img src="https://user-images.githubusercontent.com/90744124/147354337-ada1dfb0-2836-41f3-8181-43b3178817e8.png" width="22">  HTML
+- <img src="https://user-images.githubusercontent.com/90744124/147355035-beea7c2f-a531-4ad1-9d43-3ef203d97064.png" width="22">  CSS
+- <img src="https://user-images.githubusercontent.com/90744124/147354539-556a34e9-00c4-4d6b-b6c6-99aba408776b.png" width="22">  Javascript 
+- <img src="https://user-images.githubusercontent.com/90744124/147354761-e28c792e-69a7-4884-9dc4-788092865c64.png" width="22">  Git 
+- <img src="https://user-images.githubusercontent.com/90744124/147354620-4634dfe3-3bcf-4cdd-8a02-6fdd566ce478.png" width="22">  Github 
+- <img src="https://user-images.githubusercontent.com/90744124/147354641-74e149f2-d0bc-48d3-b5c4-f569a92e1723.png" width="22">  Vscode 
 
 
