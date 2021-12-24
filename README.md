@@ -19,7 +19,7 @@
 - Git 
 - Github
 - MySQL
-- VsCode
+- VS Code
 
 
 
