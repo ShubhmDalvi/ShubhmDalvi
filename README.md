@@ -20,6 +20,6 @@
 - <img src="https://user-images.githubusercontent.com/90744124/147354539-556a34e9-00c4-4d6b-b6c6-99aba408776b.png" width="22"> &nbsp; Javascript 
 - <img src="https://user-images.githubusercontent.com/90744124/147354761-e28c792e-69a7-4884-9dc4-788092865c64.png" width="22"> &nbsp; Git 
 - <img src="https://user-images.githubusercontent.com/90744124/147354620-4634dfe3-3bcf-4cdd-8a02-6fdd566ce478.png" width="22"> &nbsp; Github 
-- <img src="https://user-images.githubusercontent.com/90744124/147354641-74e149f2-d0bc-48d3-b5c4-f569a92e1723.png" width="22"> &nbsp; Vscode 
+- <img src="https://user-images.githubusercontent.com/90744124/147354641-74e149f2-d0bc-48d3-b5c4-f569a92e1723.png" width="22"> &nbsp; VS Code 
 
 
