@@ -4,7 +4,7 @@
 
 ## About Me!!
 
-- ⚡ I'm a Student
+- ⚡ I'm a Student of Information Tecgnology
 - 🌱 I’m currently learning Python and Web Development
 - 👯 I’m looking to collaborate on Python based projects
 - 🥅 My Goals: Contribute more to Open Source projects
