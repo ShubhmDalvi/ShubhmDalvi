@@ -22,8 +22,16 @@
 - <img src="https://user-images.githubusercontent.com/90744124/147354620-4634dfe3-3bcf-4cdd-8a02-6fdd566ce478.png" width="22"> &nbsp; Github 
 - <img src="https://user-images.githubusercontent.com/90744124/147354641-74e149f2-d0bc-48d3-b5c4-f569a92e1723.png" width="22"> &nbsp; VS Code 
 
+<br />
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhmDalvi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+<br />
+
+### My Activity:
+
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ShubhmDalvi&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+
+
