@@ -23,3 +23,4 @@
 - <img src="https://user-images.githubusercontent.com/90744124/147354641-74e149f2-d0bc-48d3-b5c4-f569a92e1723.png" width="22"> &nbsp; VS Code 
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhmDalvi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
