@@ -25,13 +25,13 @@
 <br />
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhmDalvi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhmDalvi&layout=compact)
 
 <br />
 
 ### My Activity:
 
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ShubhmDalvi&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ShubhmDalvi&show_icons=true&theme=dark#gh-dark-mode-only)
 
 
