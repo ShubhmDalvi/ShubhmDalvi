@@ -98,9 +98,7 @@
 <br/>  
 
 
-
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ShubhmDalvi&show_icons=true&theme=dark#gh-dark-mode-only" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ShubhmDalvi&show_icons=true&count_private=true&hide_border=true" align="center" /></div>   
   
 
 <br/>  
