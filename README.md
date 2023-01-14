@@ -114,7 +114,7 @@
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=ShubhmDalvi&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=ShubhmDalvi&style=for-the-badge" align="center" />
 </div>  
   
 
