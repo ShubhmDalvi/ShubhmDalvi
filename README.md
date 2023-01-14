@@ -1,13 +1,20 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
-
-### <div align="center">I'm Shubham, a student of Information Technology</div>  
+<img src="https://user-images.githubusercontent.com/84117563/212469023-3d3d6830-e281-47cc-a8a1-dc700937ee28.gif" align="center" style="width: 100%" />
+</div>
 
 <br/>  
 
   
+<div align="center">
+<img src="https://user-images.githubusercontent.com/84117563/212469265-3b90d1a8-66b8-4ad0-ba61-7575ab3d1683.png" align="center" style="width: 100%" />
+</div>    
+  
+
+
+<br/>  
+
+- 🏫 I'm a student of Information Technology
+
 
 - 🌱 I’m currently learning Python and Web Development  
   
@@ -111,6 +118,8 @@
   
 
 <br/>  
+
+
 
 
 
