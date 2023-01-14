@@ -98,13 +98,15 @@
 ## Github Stats  
 <br/>  
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhmDalvi&langs_count=6" align="center" /></div>  
 
-<br/>  
 
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ShubhmDalvi&show_icons=true&theme=dark#gh-dark-mode-only" align="center" /></div>  
   
+
+<br/>  
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhmDalvi&langs_count=6" align="center" /></div>  
 
 <br/>  
 
