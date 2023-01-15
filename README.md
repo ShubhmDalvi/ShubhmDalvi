@@ -103,7 +103,7 @@
 
 <br/>  
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhmDalvi&langs_count=6" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhmDalvi" align="center" /></div>  
 
 <br/>  
 
