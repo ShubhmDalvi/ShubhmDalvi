@@ -13,7 +13,6 @@
 
 <br/>  
 
-- 🏫 I'm a student of Information Technology
 
 
 - 🌱 I’m currently learning Python and Web Development  
