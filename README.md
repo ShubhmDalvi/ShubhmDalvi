@@ -1,12 +1,12 @@
 <div align="center">
-<img src="https://user-images.githubusercontent.com/84117563/212469023-3d3d6830-e281-47cc-a8a1-dc700937ee28.gif" align="center" style="width: 100%" />
+<img src="https://github.com/ShubhmDalvi/Portfolio/assets/84117563/d413036a-0083-4f7e-b074-b876fa713ee9" align="center" style="width: 100%" />
 </div>
 
 <br/>  
 
   
 <div align="center">
-<img src="https://user-images.githubusercontent.com/84117563/212469645-f28b40a2-0e9b-49e1-bff7-d5d3a2217f31.png" align="center" style="width: 100%" />
+<img src="https://github.com/ShubhmDalvi/Portfolio/assets/84117563/eafde3fc-d5dd-416f-b25b-3a4978bf3c07" align="center" style="width: 100%" />
 </div>    
   
 
