@@ -15,16 +15,10 @@
 
 
 
-- 🌱 I’m currently learning Python and Web Development  
-  
-
-- 👯 I’m looking to collaborate on Python based projects  
-  
-
-- 🥅 My Goal is to contribute more to Open Source projects  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
+- 🌱 Currently building expertise in Java and Spring Boot for scalable web application development
+- 🤝 Looking to collaborate on backend-focused projects using Java, Spring Boot, and related technologies
+- 🎯 Goal: Contribute actively to impactful Open Source projects and enterprise-level backend solutions
+- ⚡ Fun fact: Still proudly using tabs over spaces—consistency is key!
   
 
 <br/>  
