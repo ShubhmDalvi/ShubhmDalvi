@@ -22,7 +22,7 @@
 -  Currently diving deep into **Java** and **Spring Boot** to craft scalable backend systems  
 -  Open to collaborations on **backend-driven projects** using **Spring Boot, REST APIs, and SQL databases**  
 -  Passionate about building **clean, maintainable enterprise-level applications**  
--  Fun Fact: Still proudly using **tabs over spaces** — consistency is key!  
+-  Fun Fact: Still proudly using **tabs over spaces**
 
 ---
 
