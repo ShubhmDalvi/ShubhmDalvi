@@ -1,4 +1,4 @@
-<!-- ✨ Modernized GitHub Profile README for ShubhmDalvi ✨ -->
+<!--  Modernized GitHub Profile README for ShubhmDalvi  -->
 
 <div align="center">
   <img src="https://github.com/ShubhmDalvi/Portfolio/assets/84117563/d413036a-0083-4f7e-b074-b876fa713ee9" style="width:100%;" alt="Banner" />
@@ -8,7 +8,7 @@
 
 <h2 align="center">👋 Hey there, I'm <span style="color:#00bfa5;">Shubham Dalvi</span></h2>
 <p align="center">
-  <i>💻 Backend Developer | ☕ Java & Spring Boot Enthusiast | 🛠️ Open Source Contributor</i>
+  <i> Backend Developer |  Java & Spring Boot Enthusiast |  Open Source Contributor</i>
 </p>
 
 <div align="center">
@@ -17,16 +17,16 @@
 
 ---
 
-### 🧭 About Me
+###  About Me
 
-- 🌱 Currently diving deep into **Java** and **Spring Boot** to craft scalable backend systems  
-- 🤝 Open to collaborations on **backend-driven projects** using **Spring Boot, REST APIs, and SQL databases**  
-- 🎯 Passionate about building **clean, maintainable enterprise-level applications**  
-- ⚡ Fun Fact: Still proudly using **tabs over spaces** — consistency is key!  
+-  Currently diving deep into **Java** and **Spring Boot** to craft scalable backend systems  
+-  Open to collaborations on **backend-driven projects** using **Spring Boot, REST APIs, and SQL databases**  
+-  Passionate about building **clean, maintainable enterprise-level applications**  
+-  Fun Fact: Still proudly using **tabs over spaces** — consistency is key!  
 
 ---
 
-### 🛠️ My Tech Stack
+###  My Tech Stack
 
 <div align="center">
 
@@ -47,7 +47,7 @@
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <div align="center">
 
@@ -60,7 +60,7 @@
 
 ---
 
-### ✨ Dev Quote
+###  Dev Quote
 
 <div align="center">
   
@@ -73,7 +73,7 @@
 
 
 
-### 🪄 Fun Animations
+###  Fun Animations
 
 <div align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation"/>
