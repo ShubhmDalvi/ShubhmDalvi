@@ -3,17 +3,19 @@
 <div align="center">
   <img src="https://github.com/ShubhmDalvi/Portfolio/assets/84117563/d413036a-0083-4f7e-b074-b876fa713ee9" style="width:100%;" alt="Banner" />
 </div>
+<br/>
+<div align="center">
+  <img src="https://github.com/ShubhmDalvi/Portfolio/assets/84117563/eafde3fc-d5dd-416f-b25b-3a4978bf3c07" style="width:100%;" alt="Secondary Banner" />
+</div>
+
 
 <br/>
 
-<h2 align="center">👋 Hey there, I'm <span style="color:#00bfa5;">Shubham Dalvi</span></h2>
+
 <p align="center">
   <i> Backend Developer |  Java & Spring Boot Enthusiast |  Open Source Contributor</i>
 </p>
 
-<div align="center">
-  <img src="https://github.com/ShubhmDalvi/Portfolio/assets/84117563/eafde3fc-d5dd-416f-b25b-3a4978bf3c07" style="width:100%;" alt="Secondary Banner" />
-</div>
 
 ---
 
