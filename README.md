@@ -13,7 +13,7 @@
 
 
 <p align="center">
-  <i> Backend Developer |  Java & Spring Boot Enthusiast |  Open Source Contributor</i>
+  <i> Java/Spring Backend Main | Frontend DLC (Limited Edition) </i>
 </p>
 
 
