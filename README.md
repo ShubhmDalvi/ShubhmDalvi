@@ -13,7 +13,7 @@
 
 
 <p align="center">
-  <i> Java/Spring Backend Main | Frontend DLC (Limited Edition) </i>
+  <i> Java/Spring Backend Main | Frontend </i>
 </p>
 
 
