@@ -47,22 +47,11 @@
 
 </div>
 
----
-
-###  GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ShubhmDalvi&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" height="165em" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhmDalvi&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="165em" />
-
-</div>
-
 
 
 ---
 
-###  Dev Quote
+###  Something Forgettable
 
 <div align="center">
   
@@ -70,18 +59,8 @@
 
 </div>
 
----
 
 
-
-
-###  Fun Animations
-
-<div align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation"/>
-</div>
-
-<BR>
 
 
 
@@ -91,7 +70,7 @@
 
 
 
-<BR>
+
 
 <div align="center">
   <a href="https://www.linkedin.com/in/shubhmdalvi" target="_blank">
